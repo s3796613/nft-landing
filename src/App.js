@@ -13,7 +13,7 @@ const App = () => {
       />
       <SectionWrapper
         title="Friendly User Interface"
-        description="Easy to buy and sell your NFT assests"
+        description="Easy to buy and sell your NFT assests, elegant design and simple navigation."
         mockUpImg={assets.homeCards}
         reverse
       />
